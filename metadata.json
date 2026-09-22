@@ -1,0 +1,6 @@
+{
+  "name": "DOMPETKU",
+  "description": "Aplikasi pencatatan penjualan dan laporan keuangan terpadu UMKM by POTANKOS dengan menu langsung pemasukan & pengeluaran, rekap pembukuan spreadsheet Google Sheets, sinkronisasi real-time, dan verifikasi API Bank.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
